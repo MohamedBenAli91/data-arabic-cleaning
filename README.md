@@ -1,2 +1,2 @@
-# data_arabic_clearning-
+# data_arabic_clearning
 cleaning arabic data with NLTK
